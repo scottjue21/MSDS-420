@@ -12,7 +12,7 @@ To identify inspection hotspots across Chicago’s child-centered facilities and
 - **Folium**: For heatmap visualization of high-risk and frequently violated inspection locations.
 
 ## Methodology
-1. **Comparative Query Analysis**:
+1. **Comparative Query Analysis**:  
    Child-related facilities were identified using terms like “Children” and “Child,” accounting for potential misspellings and variations.
    
    - **Experiment 1**: Regular expression query for "Children" yielded 601 hits, maximizing recall but possibly reducing precision.
