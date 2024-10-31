@@ -8,7 +8,7 @@ To identify inspection hotspots across Chicago’s child-centered facilities and
 
 ## Tools and Technologies
 - **Python**
-- **NOSQL**: To perform ElasticSearch queries for retrieving inspection data.
+- **NoSQL**: To perform ElasticSearch queries for retrieving inspection data.
 - **Folium**: For heatmap visualization of high-risk and frequently violated inspection locations.
 
 ## Methodology
