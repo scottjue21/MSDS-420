@@ -7,8 +7,8 @@ This project analyzes food inspection data in Chicago, with a focus on children'
 To identify inspection hotspots across Chicago’s child-centered facilities and highlight frequent violators using NoSQL query techniques and heatmap visualizations. The goal is to enable city inspectors to target high-risk facilities effectively.
 
 ## Tools and Technologies
-- **Python**: For data analysis.
-- **ElasticSearch**: To perform NoSQL queries for retrieving inspection data.
+- **Python**
+- **NOSQL**: To perform ElasticSearch queries for retrieving inspection data.
 - **Folium**: For heatmap visualization of high-risk and frequently violated inspection locations.
 
 ## Methodology
